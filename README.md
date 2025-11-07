@@ -2,12 +2,17 @@
 
 StrikeIt adalah platform comprehensive untuk para penggemar mancing yang menyediakan berbagai layanan mulai dari booking lokasi mancing, komunitas, event, hingga shopping untuk peralatan memancing.
 
+## 🗒️ Catatan
+Ini adalah tampilan dari project tahap 3. Semua button sudah ter-link dengan page lainnya.
+Pengguna dapat mengakses dengan cepat dengan mengunjungi lama index `http://localhost:5173/`
+Untuk melihat router-link lebih lengkap bisa dilihat di router->index.js
+
 ## 🚀 Fitur Utama
 
 - **🏞️ Booking Lokasi**: Temukan dan booking lokasi mancing terbaik
 - **👥 Komunitas**: Bergabung dengan komunitas pemancing dan sharing pengalaman
 - **📅 Event**: Ikuti berbagai event mancing dan turnamen
-- **🛒 Shopping**: Beli peralatan memancing berkualitas
+- **🛒 Shopping**: Beli atau Sewa peralatan memancing berkualitas
 - **📱 User Profile**: Kelola profil dan riwayat aktivitas
 - **💳 Payment Gateway**: Sistem pembayaran terintegrasi
 
@@ -174,17 +179,3 @@ npm run build
 3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
-
-## 📄 License
-
-Project ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail.
-
-## 🆘 Support
-
-Jika ada pertanyaan atau issue, silakan:
-1. Buat issue di GitHub repository
-2. Contact tim development
-
----
-
-Made with ❤️ for Indonesian fishing community
